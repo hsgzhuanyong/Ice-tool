@@ -1,5 +1,5 @@
 /* 
-    iceTool     原生js工具库
+    iceTool1     原生js工具库
 */
 
 (function (global, func) {
