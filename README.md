@@ -12,7 +12,7 @@
 
 **示例**
 
-```
+```javascript
 let ieV = ie_v();
 if(ieV){
     alert("当前版本为"+ieV);    
@@ -41,7 +41,7 @@ if(ieV){
 
 ## 简单使用
 
-```
+```javascript
 new AudioRun(options);
 ```
 
@@ -53,7 +53,7 @@ new AudioRun(options);
 
 > 示例
 
-```
+```html
 <!DOCTYPE html>
 <html lang="zh-cn">
 
