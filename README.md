@@ -66,6 +66,7 @@ new AudioRun(options);
 
 <body>
   <audio src="audio/music.mp3" autoplay="true" loop="loop" preload="auto" id="audio"></audio>
+  <script src="audio/music.js"></script>
   <script>
     new AudioRun({
       url: 'localhost:8080/audio'
